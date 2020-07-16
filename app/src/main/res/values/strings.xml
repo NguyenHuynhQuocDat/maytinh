@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">calculater</string>
+    <string name="gfg_myfirstapp">image</string>
+    <string name="resutl">result</string>
+    <string name="nhan">Nhân</string>
+    <string name="cong" translatable="false">Cộng</string>
+    <string name="tru">Trừ</string>
+    <string name="number2">number2(0)</string>
+    <string name="chia">Chia</string>
+    <string name="number1_0">Nhập số thứ 1</string>
+    <string name="calculator">Calculator</string>
+    <string name="number2_0">Nhập số thứ 2</string>
+    <string name="result">Kết Quả</string>
+    <string name="c">Cộng</string>
+    <string name="t">Trừ</string>
+    <string name="x">Nhân</string>
+    <string name="_1">1</string>
+    <string name="txt4">2</string>
+    <string name="txt3">3</string>
+    <string name="txt2">4</string>
+    <string name="txt5">5</string>
+    <string name="txt6">6</string>
+    <string name="txt7">7</string>
+    <string name="txt8">8</string>
+    <string name="txt9">9</string>
+    <string name="txt0">0</string>
+    <string name="todo">TODO</string>
+
+</resources>
